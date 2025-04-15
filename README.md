@@ -10,11 +10,6 @@ It includes:
 
 ---
 
-### 📊 Dataset  
-The dataset is obtained from Kaggle:  
-🔗 [Breast Cancer Wisconsin (Diagnostic) Data](https://www.kaggle.com/datasets/uciml/breast-cancer-wisconsin-data)
-
----
 
 ### 🛠️ Technologies Used
 
@@ -40,5 +35,10 @@ The dataset is obtained from Kaggle:
 | Logistic Regression    | 98.2%    |
 | Gaussian Naive Bayes   | 94.0%    |
 | XGBoost Classifier     | 97.6%    |
+
+---
+### ROC Curve
+![image](https://github.com/user-attachments/assets/aed74dd6-a07d-4abd-93a4-fe9a7ba9d8a1)
+
 
 
